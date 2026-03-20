@@ -5,7 +5,7 @@
 
 <!-- TYPING SVG -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=600&lines=Transformo+l%C3%B3gica+complexa+em+experi%C3%AAncias+digitais;Frontend+Developer+%7C+React+%26+JavaScript;Criando+interfaces+de+alto+impacto+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=435&lines=Frontend+Developer+%F0%9F%9A%80;React+%26+JavaScript+Enthusiast;Experi%C3%AAncias+digitais+de+impacto" alt="Typing SVG" />
 </a>
 
 </div>
@@ -29,7 +29,11 @@ const diogo = {
 
 <!-- SNAKE ANIMATION -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/diogoqueiros16/diogoqueiros16/output/github-snake-dark.svg" alt="Snake animation" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/diogoqueiros16/diogoqueiros16/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/diogoqueiros16/diogoqueiros16/output/github-snake.svg" />
+    <img alt="Snake animation" src="https://raw.githubusercontent.com/diogoqueiros16/diogoqueiros16/output/github-snake.svg" width="100%" />
+  </picture>
 </div>
 
 <br>
