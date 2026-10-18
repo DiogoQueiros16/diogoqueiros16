@@ -69,7 +69,7 @@ const diogo = {
 <br>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=diogoqueiros16&color=6c63ff&style=for-the-badge&label=VISITAS+AO+PERFIL" alt="Profile Views" />
+  <img src="https://hits.sh/github.com/diogoqueiros16.svg?style=for-the-badge&color=6c63ff&label=VISITAS+AO+PERFIL" alt="Profile Views" />
 </div>
 
 <br>
