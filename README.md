@@ -27,10 +27,6 @@ const diogo = {
 
 <br>
 
-
-
-<br>
-
 ## 🛠️ &nbsp;Tech Stack
 
 <div align="center">
