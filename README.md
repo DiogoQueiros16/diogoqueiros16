@@ -52,6 +52,8 @@ const diogo = {
 
 ## 🌐 &nbsp;Conecta-te comigo
 
+<br>
+
 <div align="center">
   <a href="https://www.linkedin.com/in/diogo16queiroz" target="_blank">
     <img src="assets/linkedin.svg" width="184" height="56" alt="LinkedIn" />
