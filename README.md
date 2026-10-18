@@ -54,15 +54,15 @@ const diogo = {
 
 <div align="center">
   <a href="https://www.linkedin.com/in/diogo16queiroz" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Diogo%20Queiroz-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1b27" alt="LinkedIn" />
+    <img src="assets/linkedin.svg" width="184" height="56" alt="LinkedIn" />
   </a>
-  &nbsp;
+  &nbsp;&nbsp;
   <a href="https://diogoqueiroz.pt" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-diogoqueiroz.pt-6C63FF?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=1a1b27" alt="Portfolio" />
+    <img src="assets/portfolio.svg" width="184" height="56" alt="Portfolio" />
   </a>
-  &nbsp;
+  &nbsp;&nbsp;
   <a href="https://github.com/diogoqueiros16" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-diogoqueiros16-30363d?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1b27" alt="GitHub" />
+    <img src="assets/github.svg" width="184" height="56" alt="GitHub" />
   </a>
 </div>
 
